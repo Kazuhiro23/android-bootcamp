@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    
+    <item
+        android:id="@+id/TwtterListItem"
+        android:title="@string/twitter_list_item"/>
+    <item
+        android:id="@+id/FacebookListItem"
+        android:title="@string/facebook_list_item"/>
+
+</menu>
